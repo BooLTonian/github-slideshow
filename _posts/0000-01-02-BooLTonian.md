@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I am but a lamb, and the tutorial my shepherd.
 Use the left arrow to go back!
